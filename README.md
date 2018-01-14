@@ -8,10 +8,10 @@ This is a Git repo with all coding examples and exercices from the book "Program
 
 [pagina principal README](https://jantonz.github.io/CollectiveIntelligence/)
 
-[chapter2 sense nom de l'arxiu](https://jantonz.github.io/CollectiveIntelligence/Chapter%203%20-%20Discovering%20groups%20-%20Clustering/)
+[chapter2 sense nom de l'arxiu](https://jantonz.github.io/CollectiveIntelligence/Chapter2/)
 
 
-[chapter2 amb nom de l'arxiu .md](https://jantonz.github.io/CollectiveIntelligence/Chapter%203%20-%20Discovering%20groups%20-%20Clustering/recommendations.md)
+[chapter2 amb nom de l'arxiu .md](https://jantonz.github.io/CollectiveIntelligence/Chapter2/recommendations.md)
 
-[chapter2 amb nom de l'arxiu .html](https://jantonz.github.io/CollectiveIntelligence/Chapter%203%20-%20Discovering%20groups%20-%20Clustering/recommendations.html)
+[chapter2 amb nom de l'arxiu .html](https://jantonz.github.io/CollectiveIntelligence/Chapter2/recommendations.html)
 
