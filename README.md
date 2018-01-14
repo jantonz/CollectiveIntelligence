@@ -2,47 +2,6 @@
 
 This is a Git repo with all coding examples and exercices from the book "Programming Collective Intelligence", written by Toby Segaran and published by O'Reilly 2007. Coded in Python 3.
 
-[Chapter 2: Making recommendations (distance scores)](https://github.com/jantonz/CollectiveIntelligence/Chapter2/recommendations.md)
+[Chapter 2: Making recommendations (distance scores)](Ch2Distances/recommendations.md)
 
-[Chapter 3:  Discovering groups (Clustering)](https://github.com/jantonz/CollectiveIntelligence/Chapter2/)
-
-[pagina principal README](https://jantonz.github.io/CollectiveIntelligence/)
-
-[chapter2 sense nom de l'arxiu](https://jantonz.github.io/CollectiveIntelligence/Chapter2/)
-
-
-[chapter2 amb nom de l'arxiu .md](https://jantonz.github.io/CollectiveIntelligence/Chapter2/recommendations.md)
-
-[chapter2 amb nom de l'arxiu .html](https://jantonz.github.io/CollectiveIntelligence/Chapter2/recommendations.html)
-
-[sub](Chapter 2: Making recommendations (distance scores)/recommendations.md)
-
-[sub](Chapter 2: Making recommendations (distance scores)/recommendations.html)
-
-[Ch2](https://github.com/jantonz/CollectiveIntelligence/tree/master/Ch2Distances/)
-
-[Ch2](https://github.com/jantonz/CollectiveIntelligence/tree/master/Ch2Distances/recommendations.md)
-
-[Ch2](https://github.com/jantonz/CollectiveIntelligence/tree/master/Ch2Distances/recommendations.html)
-
-[Ch2](https://github.com/jantonz/CollectiveIntelligence/Ch2Distances/)
-
-[Ch2](https://github.com/jantonz/CollectiveIntelligence/Ch2Distances/recommendations.md)
-
-[Ch2](https://github.com/jantonz/CollectiveIntelligence/Ch2Distances/recommendations.html)
-
-[Ch2](Ch2Distances/)
-
-[Ch2](Ch2Distances/recommendations.md)
-
-[Ch2](Ch2Distances/recommendations.html)
-
-
-
-
-
-
-
-
-
-
+[Chapter 3:  Discovering groups (Clustering)](Ch2Distances/generatefeedvector.md)
