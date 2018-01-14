@@ -17,3 +17,6 @@ This is a Git repo with all coding examples and exercices from the book "Program
 
 [sub](Chapter 2: Making recommendations (distance scores)/recommendations.md)
 
+[sub](Chapter 2: Making recommendations (distance scores)/recommendations.html)
+
+
