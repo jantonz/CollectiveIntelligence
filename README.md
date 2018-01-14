@@ -4,4 +4,4 @@ This is a Git repo with all coding examples and exercices from the book "Program
 
 [Chapter 2: Making recommendations (distance scores)](Ch2Distances/recommendations.md)
 
-[Chapter 3:  Discovering groups (Clustering)](Ch2Distances/generatefeedvector.md)
+[Chapter 3:  Discovering groups (Clustering)](Ch3Clustering/generatefeedvector.md)
