@@ -5,3 +5,13 @@ This is a Git repo with all coding examples and exercices from the book "Program
 [Chapter 2: Making recommendations (distance scores)](https://github.com/jantonz/CollectiveIntelligence/blob/master/Chapter%202%20-%20Making%20recommendations%20-%20Distance%20scores/recommendations.html)
 
 [Chapter 3:  Discovering groups (Clustering)](https://github.com/jantonz/CollectiveIntelligence/blob/master/Chapter%203%20-%20Discovering%20groups%20-%20Clustering/generatefeedvector.html)
+
+[pagina principal README](https://jantonz.github.io/CollectiveIntelligence/)
+
+[chapter2 sense nom de l'arxiu](https://jantonz.github.io/CollectiveIntelligence/Chapter%203%20-%20Discovering%20groups%20-%20Clustering/)
+
+
+[chapter2 amb nom de l'arxiu .md](https://jantonz.github.io/CollectiveIntelligence/Chapter%203%20-%20Discovering%20groups%20-%20Clustering/recommendations.md)
+
+[chapter2 amb nom de l'arxiu .html](https://jantonz.github.io/CollectiveIntelligence/Chapter%203%20-%20Discovering%20groups%20-%20Clustering/recommendations.html)
+
