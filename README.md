@@ -15,3 +15,5 @@ This is a Git repo with all coding examples and exercices from the book "Program
 
 [chapter2 amb nom de l'arxiu .html](https://jantonz.github.io/CollectiveIntelligence/Chapter2/recommendations.html)
 
+[sub](Chapter 2: Making recommendations (distance scores)/recommendations.md)
+
