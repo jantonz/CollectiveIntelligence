@@ -15,6 +15,7 @@ baseurl: ""
 
 # Name of website
 title: Programming Collective Intelligence
+theme: jekyll-theme-slate
 
 # Short description of your site
 description: This is a repo with all coding examples and exercices from the book "Programming Collective Intelligence", written by Toby Segaran and published by O'Reilly.
