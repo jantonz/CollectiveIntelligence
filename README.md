@@ -19,4 +19,30 @@ This is a Git repo with all coding examples and exercices from the book "Program
 
 [sub](Chapter 2: Making recommendations (distance scores)/recommendations.html)
 
+[Ch2](https://github.com/jantonz/CollectiveIntelligence/tree/master/Ch2Distances/)
+
+[Ch2](https://github.com/jantonz/CollectiveIntelligence/tree/master/Ch2Distances/recommendations.md)
+
+[Ch2](https://github.com/jantonz/CollectiveIntelligence/tree/master/Ch2Distances/recommendations.html)
+
+[Ch2](https://github.com/jantonz/CollectiveIntelligence/Ch2Distances/)
+
+[Ch2](https://github.com/jantonz/CollectiveIntelligence/Ch2Distances/recommendations.md)
+
+[Ch2](https://github.com/jantonz/CollectiveIntelligence/Ch2Distances/recommendations.html)
+
+[Ch2](Ch2Distances/)
+
+[Ch2](Ch2Distances/recommendations.md)
+
+[Ch2](Ch2Distances/recommendations.html)
+
+
+
+
+
+
+
+
+
 
