@@ -1,5 +1,8 @@
-
-# Collective Intelligence
+---
+layout: page
+title: Chapter 2 - Recommendations
+sidebar_link: true
+---
 
 ## Chapter 2: Making recommendations
 
