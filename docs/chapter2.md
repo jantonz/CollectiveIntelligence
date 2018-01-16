@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Chapter 2 - Recommendations
+title: Chapter 2 - Making recommendations
 sidebar_link: true
 ---
-
-## Chapter 2: Making recommendations
 
 ### Summary
 
